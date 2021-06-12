@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EvilRedOctober
+- 👋 Hi, I’m Alexander
 - 👀 I’m interested in programming and computer games
 - 🌱 I’m currently learning python, SQL, git, algorithms, data science.
 - 📫 How to reach me: 
