@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alexander
+- 👋 Hi, I’m Bakaev Alexander
 - 👀 I’m interested in programming and computer games
 - 🌱 I’m currently learning python, SQL, git, algorithms, data science.
 - 🚀 Skills:
